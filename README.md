@@ -2,6 +2,8 @@
 
 A web application for an online grocery store built with plain **HTML, CSS and JavaScript** (no frameworks, no installation, no server needed).
 
+**Live Demo:** https://freshcart-gajaramesh.netlify.app/
+
 ## Files (easy-to-read version)
 
 | File | What is inside |
